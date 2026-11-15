@@ -72,10 +72,8 @@ const skills = [
         title: "CoralDraw",
         css: "tensorflow",
       },
-      
     ],
-    description:
-      "Use CoralDraw for my graphic design needs.",
+    description: "Use CoralDraw for my graphic design needs.",
   },
 ];
 

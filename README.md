@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-🚀 <a href="https://github.com/xtenzQ">Nikita Rusetskii</a> portfolio website in flat design made with Vue.js and Bootstrap 5
+🚀 <a href="https://github.com/francis951">Nikita Rusetskii</a> portfolio website in flat design made with Vue.js and Bootstrap 5
 </p></br>
 
 <p align="center">

@@ -3,22 +3,21 @@
   <MenuVue :links="links">> # ~ / nikita<span class="prim">r</span></MenuVue>
   <HeroSection id="hero" pic="header.png">
     <template v-slot:welcome>Welcome!</template>
-    My name is <b>Nikita Rusetskii</b> and I'm a
+    My name is <b>Francis Murungi</b> and I'm a
     <hi-word>software engineer</hi-word>. My passion is building
     <hi-word>web applications</hi-word> and
     <hi-word>designing websites</hi-word> using modern frameworks. Also I'm
-    doing research in <hi-word>machine learning</hi-word> applied to renewable
-    energy
+    graphic design <hi-word>with CoralDraw</hi-word>
     <template v-slot:buttons>
       <simple-button
         class="btn-primary text-white"
-        url="https://linkedin.com/in/xtenzq"
+        url="https://linkedin.com/in/rancis-murungi-2295bb43/"
         icon="fab linkedin-in"
         >Hire me!</simple-button
       >
       <simple-button
         class="btn-outline-secondary"
-        url="mailto:rusetscky@outlook.com"
+        url="mailto:francis_951@live.com"
         icon="fa-regular fa-file-lines"
         >Contact me</simple-button
       >
@@ -83,15 +82,15 @@ export default {
         {
           id: 1,
           icon: "fab linkedin-in",
-          url: "https://linkedin.com/in/xtenzq",
+          url: "https://linkedin.com/in/rancis-murungi-2295bb43/",
         },
         {
           id: 2,
           icon: "fab github",
-          url: "https://github.com/xtenzq",
+          url: "https://github.com/francis951",
         },
       ],
-      copyright: "2022 Nikita Rusetskii",
+      copyright: "2026 Francis Murungi",
     };
   },
   components: {

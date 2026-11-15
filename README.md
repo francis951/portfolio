@@ -1,13 +1,8 @@
 <h1 align="center">Vue.js & Bootstrap Developer Portfolio</h1>
 
-<p align="center">
-  <a href="https://github.com/xtenzQ/developer-portfolio/actions/workflows/build.yml"><img src="https://github.com/xtenzQ/developer-portfolio/actions/workflows/build.yml/badge.svg" /></a> 
-  <a href="https://github.com/xtenzQ/developer-portfolio/actions/workflows/pages/pages-build-deployment"><img src="https://github.com/xtenzQ/developer-portfolio/actions/workflows/pages/pages-build-deployment/badge.svg" /></a>
-  <br>
-</p>
 
 <p align="center">
-🚀 <a href="https://github.com/francis951">Nikita Rusetskii</a> portfolio website in flat design made with Vue.js and Bootstrap 5
+🚀 <a href="https://github.com/francis951">Francis Murungi</a> portfolio website in flat design made with Vue.js and Bootstrap 5
 </p></br>
 
 <p align="center">
@@ -55,7 +50,7 @@ Sources are automatically built on push and deployed into `gh-pages` branch with
 I'd love to accept your contributions to this project. I use GitHub pull requests for this purpose. Consult [GitHub Help](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) for more information on using pull requests.
 
 ## 🧡 Find this repository useful?
-Like the website or got inspired by it? Please support it by joining __[stargazers](https://github.com/xtenzQ/developer-portfolio/stargazers)__ for this repository. :star:
+Like the website or got inspired by it? Please support it by joining __[stargazers](https://github.com/francis951/portfolio)__ for this repository. :star:
 
 ## License
 ```

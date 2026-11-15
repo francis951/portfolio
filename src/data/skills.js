@@ -6,12 +6,12 @@ const skills = [
     languages: [
       {
         id: 1,
-        title: "Java",
+        title: "Django",
         css: "java",
       },
       {
         id: 2,
-        title: "Groovy",
+        title: "DRF",
         css: "groovy",
       },
       {
@@ -21,7 +21,7 @@ const skills = [
       },
       {
         id: 4,
-        title: "Spring Data",
+        title: "Python",
         css: "spring",
       },
       {
@@ -31,7 +31,7 @@ const skills = [
       },
     ],
     description:
-      "I develop web apps using JVM languages and work closely with NoSQL search engines like Apache Solr",
+      "I develop web apps using Python and work closely with Django and DRF for  API development. I also use Java and Groovy for backend development.",
   },
   {
     id: 2,
@@ -55,36 +55,27 @@ const skills = [
       },
       {
         id: 4,
-        title: "Bulma",
+        title: "React",
         css: "bulma",
       },
     ],
     description:
-      "Even though Im a backend developer, I have passion for designing web apps and websites and Im into such things as JavaScript and Vue.js",
+      "Even though Im a backend developer, I have passion for designing web apps and websites and Im into such things as JavaScript/react and Vue.js, html/css",
   },
   {
     id: 3,
-    title: "Machine Learning",
+    title: "Graphic Design",
     image: "ai_blue.png",
     languages: [
       {
         id: 1,
-        title: "Tensorflow",
+        title: "CoralDraw",
         css: "tensorflow",
       },
-      {
-        id: 2,
-        title: "PyTorch",
-        css: "pytorch",
-      },
-      {
-        id: 3,
-        title: "OpenCV",
-        css: "opencv",
-      },
+      
     ],
     description:
-      "I use deep learning to solve problems in the real world. I use Tensorflow and PyTorch to build neural networks and use OpenCV to process images",
+      "Use CoralDraw for my graphic design needs.",
   },
 ];
 

@@ -33,25 +33,25 @@ import { useMeta } from "vue-meta";
 export default {
   data: () => {
     return {
-      webTitle: "Nikita RUSETSKII - Backend Developer",
+      webTitle: "Francis Murungi - Backend Developer",
     };
   },
   setup() {
     useMeta({
-      title: "Nikita RUSETSKII - Backend Developer",
+      title: "Francis Murungi - Backend Developer",
       description: "Just a guy with passion for coding",
       htmlAttrs: {
         lang: "en",
         amp: true,
       },
       twitter: {
-        title: "Nikita RUSETSKII - Backend Developer",
+        title: "Francis Murungi - Backend Developer",
         description: "Just a guy with passion for coding",
         card: "summary_large_image",
         image: "https://rusetskii.dev" + require(`@/assets/images/preview.jpg`),
       },
       og: {
-        title: "Nikita RUSETSKII - Backend Developer",
+        title: "Francis Murungi - Backend Developer",
         description: "Just a guy with passion for coding",
         type: "website",
         url: "https://rusetskii.dev/",
@@ -62,11 +62,11 @@ export default {
         {
           name: "keywords",
           content:
-            "software developer, software engineer, backend developer, fullstack developer, machine learning engineer, AI researcher, developer portfolio",
+            "software developer, software engineer, backend developer, fullstack developer, graphic designer, developer portfolio",
         },
         {
           name: "author",
-          content: "Nikita Rusetskii",
+          content: "Francis Murungi",
         },
       ],
       link: [

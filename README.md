@@ -5,9 +5,7 @@
 🚀 <a href="https://github.com/francis951">Francis Murungi</a> portfolio website in flat design made with Vue.js and Bootstrap 5
 </p></br>
 
-<p align="center">
-  <img src="https://repository-images.githubusercontent.com/190986196/62ae63d6-59b0-499b-b506-58e0e6d0670b" />
-</p>
+
 
 ## 🛠 Tech Stacks
 - [Vue.js v3](https://github.com/vuejs/core) for building UI;
@@ -50,7 +48,7 @@ Sources are automatically built on push and deployed into `gh-pages` branch with
 I'd love to accept your contributions to this project. I use GitHub pull requests for this purpose. Consult [GitHub Help](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) for more information on using pull requests.
 
 ## 🧡 Find this repository useful?
-Like the website or got inspired by it? Please support it by joining __[stargazers](https://github.com/francis951/portfolio)__ for this repository. :star:
+Like the website or got inspired by it? Please support it by joining __[francis951](https://github.com/francis951/portfolio)__ for this repository. :star:
 
 ## License
 ```
